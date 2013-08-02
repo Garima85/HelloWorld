@@ -1,1 +1,1 @@
-HelloWorld project test reset
+HelloWorld project test reset soft
