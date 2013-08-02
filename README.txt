@@ -1,1 +1,1 @@
-HelloWorld project commit2
+HelloWorld project git reset soft
