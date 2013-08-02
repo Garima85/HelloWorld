@@ -1,1 +1,1 @@
-HelloWorld project git reset soft
+HelloWorld project git branch cherrypick merge
