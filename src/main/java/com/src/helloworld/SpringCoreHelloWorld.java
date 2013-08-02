@@ -19,6 +19,7 @@ public class SpringCoreHelloWorld {
 	}	
 	
 	public void sayHello() {
+		System.out.println("first change in existing file");
 		System.out.println(getMessage());
 	}
 }
