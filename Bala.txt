@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hi, this is bala
-=======
 updated -- jag
->>>>>>> 84bed695359fdb13b6e879e71da023c9951adda0
