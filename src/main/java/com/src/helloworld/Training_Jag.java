@@ -1,1 +1,3 @@
-##Training class
+##Training class ##
+{
+}
